@@ -1,0 +1,7 @@
+server:
+  port: 8090
+  servlet:
+    content-path: /
+spring:
+  application:
+    name: order-demo
